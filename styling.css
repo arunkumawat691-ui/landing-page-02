@@ -1,0 +1,27 @@
+body{
+	background-image: url("nature.jpg");
+	background-repeat: no-repeat;
+	background-position : center;
+	background-size: cover;
+	text-align: center;
+}
+h2{
+	font-weight: bold;
+	color: white;
+}
+p{
+	font-size: 15px;
+	font-weight: bold;
+	color : black;
+}
+a{
+	background-color: darkblue;
+	color: white;
+	border: 3px solid black;
+	padding: 10px 20px;
+}
+footer p{
+
+	color: blue;
+}
+	
